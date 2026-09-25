@@ -1,0 +1,254 @@
+{
+  "at": "2026-09-25T20:59:59.843Z",
+  "total": 49,
+  "failed": 0,
+  "skipped": 0,
+  "checks": [
+    {
+      "name": "uygulama acildi",
+      "pass": true,
+      "detail": "platform=win32"
+    },
+    {
+      "name": "pencere adi Marj",
+      "pass": true,
+      "detail": "Marj"
+    },
+    {
+      "name": "gecmis gorunumu aciliyor",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "gecmis bos durumu gorunur",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "ayarlar gorunumu aciliyor",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "indir gorunumu geri geliyor",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "kuyruk bos durumu gorunur",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "bos durum metni anlamli",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "gecersiz linkte hata durumu cikiyor",
+      "pass": true,
+      "detail": "Error invoking remote method 'analyze': Error: Metin bir URL degil. Ornek: https://www.you"
+    },
+    {
+      "name": "desteklenmeyen kaynak uyariliyor",
+      "pass": true,
+      "detail": "Error invoking remote method 'analyze': Error: Desteklenmeyen kaynak: example.co"
+    },
+    {
+      "name": "klavye oda gorunur halka birakir",
+      "pass": true,
+      "detail": "tum odaklanan elemanlarda outline var"
+    },
+    {
+      "name": "koyu tema uygulaniyor",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "koyu temada metin/zemin renkleri ayrildi",
+      "pass": true,
+      "detail": "{\"bg\":\"rgb(25, 23, 19)\",\"color\":\"rgb(242, 238, 228)\"}"
+    },
+    {
+      "name": "acik tema geri geliyor",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "430px genislikte yatay tasma yok",
+      "pass": true,
+      "detail": "{\"scroll\":403,\"inner\":414}"
+    },
+    {
+      "name": "genis ekranda yatay tasma yok",
+      "pass": true,
+      "detail": "{\"scroll\":1153,\"inner\":1164}"
+    },
+    {
+      "name": "eszamanli indirme sayisi kaydediliyor",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "cerez tercihi kaydediliyor",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "dosya adi kalibi kaydediliyor",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "indirme klasoru test dizinine alindi",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "yt-dlp kurulu",
+      "pass": true,
+      "detail": "2026.08.19"
+    },
+    {
+      "name": "yt-dlp surumu gorunuyor",
+      "pass": true,
+      "detail": "2026.08.19"
+    },
+    {
+      "name": "kurulumdan sonra buton pasiflesiyor",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "ffmpeg indirilip kuruluyor",
+      "pass": true,
+      "detail": "ffmpeg version N-126864-gc966a1de0a-20260925 Copyright (c) 2000-2026 the FFmpeg developers"
+    },
+    {
+      "name": "yukleniyor durumu gosterilir",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "youtube videosu cozumlendi",
+      "pass": true,
+      "detail": "Me at the zoo"
+    },
+    {
+      "name": "kapak gorseli geldi",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "cozumleme sonrasi odak indir butonuna gecti",
+      "pass": true,
+      "detail": "startBtn"
+    },
+    {
+      "name": "ffmpeg varken ses ipucu bilgilendirici",
+      "pass": true,
+      "detail": "Ses dönüştürülür, kapak ve etiket dosyaya gömülür."
+    },
+    {
+      "name": "indirme kuyruga eklendi",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "mp3 indirmesi tamamlandi",
+      "pass": true,
+      "detail": "done "
+    },
+    {
+      "name": "mp3 dosyasi olustu",
+      "pass": true,
+      "detail": "C:\\Users\\Pars\\AppData\\Local\\Temp\\marj-test-downloads\\Me at the zoo.mp3 / dosyalar: C:\\Users\\Pars\\AppData\\Local\\Temp\\marj-test-downloads\\Me at the zoo.mp3"
+    },
+    {
+      "name": "biten is gecmiste gorunuyor",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "gecmiste dosya butonu var",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "spotify parcası cozumlendi",
+      "pass": true,
+      "detail": "Never Gonna Give You Up"
+    },
+    {
+      "name": "youtube eslesmesi gosteriliyor",
+      "pass": true,
+      "detail": "Ses şu videoda bulundu: Rick Astley - Never Gonna Give You Up (Official Video) (4K Remaster) (Rick A"
+    },
+    {
+      "name": "vazgec butonu onizlemeyi kapatir",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "spotify listesi okundu",
+      "pass": true,
+      "detail": "Today’s Top Hits / 9 satir"
+    },
+    {
+      "name": "spotify listesi kuyruga toplu ekleniyor",
+      "pass": true,
+      "detail": "50 url / downloading"
+    },
+    {
+      "name": "liste secenegi gorunuyor",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "liste kutusu gercek tepki veriyor",
+      "pass": true,
+      "detail": "hata"
+    },
+    {
+      "name": "calistirilan is iptal edilebiliyor",
+      "pass": true,
+      "detail": "canceled"
+    },
+    {
+      "name": "indirme sirasinda uygulama zorla kapatildi",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "yeniden acilista kesilen is olarak isaretleniyor",
+      "pass": true,
+      "detail": "interrupted / Uygulama kapanırken indirme kesildi."
+    },
+    {
+      "name": "gecmiste tekrar butonu var",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "tekrar deneme yeni is baslatiyor",
+      "pass": true,
+      "detail": "downloading"
+    },
+    {
+      "name": "tekrarlanan is iptal edildi",
+      "pass": true,
+      "detail": "canceled"
+    },
+    {
+      "name": "ayarlar geri alindi",
+      "pass": true,
+      "detail": "{\"outDir\":\"C:\\\\Users\\\\Pars\\\\AppData\\\\Local\\\\Temp\\\\marj-test-downloads\",\"audioFormat\":\"mp3\",\"videoQuality\":\"1080\",\"cookies\":\"none\",\"theme\":\"light\",\"ytDlpPath\":\"\",\"ffmpegPath\":\"\",\"fileTemplate\":\"%(title)s.%(ext)s\",\"embedMeta\":true,\"maxConcurrent\":1}"
+    },
+    {
+      "name": "konsol hatasi yok",
+      "pass": true,
+      "detail": ""
+    }
+  ],
+  "consoleErrors": []
+}
